@@ -9,3 +9,4 @@ module.exports = {
   plugins: [],
 }
 
+// Tailwind (Module Export)

@@ -30,3 +30,4 @@ connectDB().then(()=>{
         console.log("Server is running "+PORT)
     })
 })
+// Express server setup with CORS, cookies, DB connection, routes, and environment config for handling API requests and frontend access.

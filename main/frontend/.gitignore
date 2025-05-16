@@ -25,3 +25,4 @@ backend/node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+# Ignores dependency folders, build files, environment configs, logs, and OS-specific files to keep Git repo clean and secure.

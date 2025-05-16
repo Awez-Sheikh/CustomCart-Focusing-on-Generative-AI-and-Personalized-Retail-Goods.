@@ -22,4 +22,4 @@
     "razorpay": "^2.9.6"
   }
 }
-// Node.js backend config defining dependencies, start scripts, environment setup, MongoDB, auth tools, and Razorpay for payment integration.
+

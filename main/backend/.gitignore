@@ -21,3 +21,4 @@ yarn-error.log*
 *.sqlite3
 dump.rdb
 *.log
+# Ignores dependencies, logs, environment variables, and local database/cache files to keep the repository clean and secure.
